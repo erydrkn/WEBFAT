@@ -1,9 +1,11 @@
 # WEBFAT
 
 Introduction
+
 This project is a web application designed to assist users in managing their diet and nutrition plans. The project is built using PHP and the Laravel framework. It provides a wide food dataset and uses scientific methods to calculate the basal metabolic rate (BMR), enabling the creation of personalized diet profiles.
 
 Features
+
 Database Management: Integrated with SQL database using four main tables: foods, users, user_diet_profiles, and user_menus.
 Food Dataset: A comprehensive dataset with over 7500 foods and recipes.
 BMR Calculator: Allows users to calculate their daily calorie needs by entering their gender, age, height, weight, and daily activity level.
