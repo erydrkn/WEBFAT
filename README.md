@@ -57,6 +57,8 @@ eraydurukan48@hotmail.com
 
 Project Poster: https://github.com/erydrkn/WEBFAT/blob/main/WEBFAT-Poster-.pptx
 
+Project Presentation: https://github.com/erydrkn/WEBFAT/blob/main/WEBFAT-Presentation%20.pptx
+
 
 
 
