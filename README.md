@@ -17,6 +17,7 @@ Admin Panel: Advanced management features for user and food management.
 User Types
 
 User: Can perform basic operations like creating diet profiles, meal planning, and BMR calculation.
+
 Admin: Has additional privileges such as user and food management, deleting and editing user accounts, and adding new food items.
 
 Next Steps
