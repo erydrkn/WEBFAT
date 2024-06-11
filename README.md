@@ -15,10 +15,12 @@ Alert System: Warns users if their selected meals exceed their daily calorie nee
 Admin Panel: Advanced management features for user and food management.
 
 User Types
+
 User: Can perform basic operations like creating diet profiles, meal planning, and BMR calculation.
 Admin: Has additional privileges such as user and food management, deleting and editing user accounts, and adding new food items.
 
 Next Steps
+
 Mobile Application Development:
 Develop a mobile version of the existing web application to allow users to manage their diet plans and BMR calculations on their mobile devices.
 
