@@ -50,5 +50,8 @@ eraydurukan48@hotmail.com
 18070001034@stu.yasar.edu.tr
 20070001081@stu.yasar.edu.tr
 
+Project Poster: https://github.com/erydrkn/WEBFAT/blob/main/WEBFAT-Poster-.pptx
+
+
 
 
