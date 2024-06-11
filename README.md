@@ -47,6 +47,8 @@ Implement additional security measures and protocols to protect user data.
 Support and data sharing:
 İf you want to get detailed document and code for this project please send an email to:
 eraydurukan48@hotmail.com
+18070001034@stu.yasar.edu.tr
+20070001081@stu.yasar.edu.tr
 
 
 
